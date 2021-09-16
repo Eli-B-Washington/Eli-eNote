@@ -87,7 +87,7 @@ public class NoteListAdapter extends RecyclerView.Adapter<NoteListAdapter.ViewHo
 
         /**
          * The ViewHolder Method
-         * Purpose: The constructor for the custom class
+         * Purpose: The constructor for the custom class ViewHolder
          * @param itemView - View
          */
         public ViewHolder(View itemView) {

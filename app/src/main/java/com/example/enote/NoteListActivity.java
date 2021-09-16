@@ -98,3 +98,4 @@ public class NoteListActivity extends AppCompatActivity {
         return true;
     }
 }
+
