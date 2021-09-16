@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">eNote</string>
+    <string name="tab_text_1">Notes</string>
+    <string name="tab_text_2">Categories</string>
+    <string name="b">B</string>
+    <string name="i">I</string>
+    <string name="u">U</string>
+    <string name="type_here">Type Here</string>
+    <string name="n">N</string>
+    <string name="save">Save</string>
+    <string name="new_note">New Note</string>
+    <string name="c">C</string>
+    <string name="cf">CF</string>
+    <string name="firstnote">FirstNote</string>
+    <string name="saved_notes">saved_notes</string>
+    <string name="saved_notes_key">saved_notes_key</string>
+    <string name="send_email">Email</string>
+    <string name="action_search">Search...</string>
+    <string name="title">Title</string>
+    <!--<string name="saved_notes">saved_notes</string>-->
+</resources>
